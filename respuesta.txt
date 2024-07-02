@@ -1,0 +1,9 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+El archivo no puede verse en ese momento, pues este mismo estaba creado en la rama Opcion_2
+
+¿Que diferencias nota?
+Las diferencia se encuentra en la cantidad de nodos azules (los commits realizado) y las bifurcaciones entre los mismos (por la creación de la rama Opcion_2)
+
+¿Que nota?
+Noto que los lazos que unen a los nodos de los distintos commits de las distintas rammas se unifican en uno solo (el merge de ambos).
+

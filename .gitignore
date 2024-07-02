@@ -1,0 +1,4 @@
+#Extensiones de archivos que serán ignorados
+*.exe
+*.obj
+*.tds

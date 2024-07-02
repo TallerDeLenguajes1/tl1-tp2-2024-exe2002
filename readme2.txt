@@ -1,0 +1,1 @@
+perdon por la demora profe tuve unos problemas, a los tps los tenia echos por la mitad me puse a completarlos solo me faltaba subirlos mil disculpas 
